@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RobotApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Toby\\Desktop\\robot-dev-test\\RobotApp\\Sample.txt\"\r\n"
+    }
+  }
+}
